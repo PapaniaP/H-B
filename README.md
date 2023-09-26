@@ -116,5 +116,3 @@ In conclusion, our project involved the creation of [hlousekbrokers.sk](https://
 - Immediate plans include enhancing responsive design, implementing a more structured booking and contact system, and improving the website's SEO for greater visibility.
 
 - Improve performance, load times and image optimization.
-
-![Future Plans](insert_future_plans_image_url_here)
