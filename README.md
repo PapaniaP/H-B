@@ -1,9 +1,33 @@
 # HLOUŠEK & BROKERS
 
-## Overview
+## Project Overview
 
-- **Period:** [May 2023]
-- **Team Members:** [4 Members]
+- **Name:** HLOUŠEK & BROKERS
+- **Members:** Group of 4
+- **Date:** May 2023
+- **Technology Stack:** WordPress, Elementor
+- **Design Tool:** Figma
+
+- [HLOUŠEK \& BROKERS](#hloušek--brokers)
+  - [Project Overview](#project-overview)
+    - [Problem Statement](#problem-statement)
+  - [Solution](#solution)
+  - [Process](#process)
+    - [Research](#research)
+    - [Mission, Values, and Vision](#mission-values-and-vision)
+    - [Business Model Canvas and Value Proposition Canvas](#business-model-canvas-and-value-proposition-canvas)
+    - [User Persona](#user-persona)
+    - [Experience Mapping](#experience-mapping)
+    - [Design](#design)
+    - [Content Creation](#content-creation)
+    - [Development](#development)
+  - [Conclusion](#conclusion)
+  - [Perspective Thoughts and Challenges](#perspective-thoughts-and-challenges)
+    - [Iterations](#iterations)
+    - [Collaboration](#collaboration)
+    - [Limitations and Considerations](#limitations-and-considerations)
+    - [Responsive Design](#responsive-design)
+    - [Future Plans](#future-plans)
 
 ### Problem Statement
 
@@ -116,3 +140,7 @@ In conclusion, our project involved the creation of [hlousekbrokers.sk](https://
 - Immediate plans include enhancing responsive design, implementing a more structured booking and contact system, and improving the website's SEO for greater visibility.
 
 - Improve performance, load times and image optimization.
+
+**Get in Touch**
+
+[Portfolio](https://www.papaniap.dk) | [LinkedIn](https://www.linkedin.com/in/papaniap/)
